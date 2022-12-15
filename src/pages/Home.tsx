@@ -11,7 +11,7 @@ export function Home() {
                <img src={illustrationImg} alt="Ilustração simbolizando perguntas e respostas" />
                <strong>Crie salas de Q&amp;A ao vivo!</strong>
                <p>
-                Crie tópicos para coompartilhar seus conhecimentos,
+                Crie tópicos para compartilhar seus conhecimentos,
                 dúvidas e opiniões.
                </p>
             </aside>
@@ -28,7 +28,7 @@ export function Home() {
                     <form>
                         <input 
                         type="text" 
-                        placeholder="Digite oo código da sala"
+                        placeholder="Digite o código da sala"
                         />
                         <button type="submit">
                             Entrar na sala
